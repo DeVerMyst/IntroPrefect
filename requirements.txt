@@ -1,1 +1,1 @@
-prefect>=3.1      # installe AnyIO récent + bugfix feed_data after feed_eof
+prefect>=3.1

@@ -1,7 +1,5 @@
-# ---------------- docker-compose.yml ----------------
 version: "3.9"
 
-#################### VARIANTE A  —  tout-en-un ####################
 services:
   prefect-server:
     image: prefecthq/prefect:3-latest

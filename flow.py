@@ -28,3 +28,6 @@ if __name__ == "__main__":
         name="every-10s",
         interval=10          # exécution toutes les 10 s
     )
+
+
+
